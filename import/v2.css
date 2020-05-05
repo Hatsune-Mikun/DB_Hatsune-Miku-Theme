@@ -1,5 +1,9 @@
 /* ------BACKGROUND------ */   /*contact me ($ [!] Mikun Hatsune ✔#8088)*/
 /* ------REMOVE GREY/WHITE BG COLORS------ */
+.codeBlockText-9TnoxQ, .codeLine-14BKbG {
+  color: #b9bbbe;
+}
+
 .hljs{
     color: #b9bbbe;
 }
