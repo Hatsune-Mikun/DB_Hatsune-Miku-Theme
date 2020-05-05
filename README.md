@@ -1,7 +1,7 @@
 # DB_Hatsune-Miku-Theme [![Build Status](https://travis-ci.org/AminoJS/Amino.JS.svg?branch=master)](https://github.com/Hatsune-Mikun/DB_Hatsune-Miku-Theme)
 
 Hatsune Miku Theme for Discord
-![logo](https://raw.githubusercontent.com/Hatsune-Mikun/DB_HSLTA/master/media/fXdVACDqRl.gif)  
+![logo](https://raw.githubusercontent.com/Hatsune-Mikun/DB_Hatsune-Miku-Theme/master/media/logo3.png)  
 
 ## Installation
 
