@@ -6,7 +6,7 @@ Hatsune Miku Theme for Discord
 ![Preview](https://raw.githubusercontent.com/Hatsune-Mikun/DB_Hatsune-Miku-Theme/master/media/vfXM6xNcfm.png)
 ## Installation
 
-* **[Hatsune Miku Theme v2](https://github.com/Hatsune-Mikun/DB_Hatsune-Miku-Theme/releases/tag/v2.0)** - New Adaptation + Style fix.
+* **[Hatsune Miku Theme v2](https://github.com/Hatsune-Mikun/DB_Hatsune-Miku-Theme/releases/tag/v2.0)** - New Adaptation + **[Style fix](https://raw.githubusercontent.com/Hatsune-Mikun/DB_Hatsune-Miku-Theme/master/media/cLYYNeYsyU.png)**.
 * **[Hatsune Miku Theme v1](https://github.com/Hatsune-Mikun/DB_Hatsune-Miku-Theme/releases/tag/v1.0)**
 
 * Put theme file in Theme Folders!
