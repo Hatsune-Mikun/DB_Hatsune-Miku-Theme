@@ -3,6 +3,7 @@
 Hatsune Miku Theme for Discord
 ![logo](https://raw.githubusercontent.com/Hatsune-Mikun/DB_Hatsune-Miku-Theme/master/media/logo3.png)  
 
+![Preview](https://raw.githubusercontent.com/Hatsune-Mikun/DB_Hatsune-Miku-Theme/master/media/vfXM6xNcfm.png)
 ## Installation
 
 * 
