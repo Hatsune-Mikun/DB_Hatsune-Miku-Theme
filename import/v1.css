@@ -1,17 +1,4 @@
 /* ------BACKGROUND------ */   /*contact me ($ [!] Mikun Hatsune ✔#8088)*/
-  body
-  {
-    /*background: url("https://cdn.discordapp.com/attachments/630816764854272002/641308691450167345/49170305_p0.jpg");*/
-    background: url("https://imgs.aixifan.com/o_1dmto233h1ap1grj1kn511qn1oim1o.jpg");
-    /*artist https://www.pixiv.net/en/users/7210261*/
-    background-size: cover;
-  }
-
-  .appMount-3lHmkl
-  {
-    background: rgba(0, 0, 0, .6);
-  }
-
 /* ------REMOVE GREY/WHITE BG COLORS------ */
   .theme-dark,
 .theme-light
